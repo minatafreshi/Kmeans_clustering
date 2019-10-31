@@ -19,4 +19,4 @@ Run scripts with `python3 'file name'`.
 
 ### License
 
-Kmeans_clustering is licensed under the MIT License - see the[LICENSE.md](LICENSE.md) file for details
+Kmeans_clustering is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
